@@ -1,0 +1,10 @@
+emails
+meetings
+administrative
+
+research
+programming
+testing
+support
+
+other
